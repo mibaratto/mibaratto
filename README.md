@@ -1,4 +1,4 @@
-## 👩‍💻 Fullstack Developer | Javascript, React, NodeJS, Typescript, REST APIs 
+## 👩‍💻 Fullstack Developer | Javascript, React, NodeJS & Typescript
 
 
  
