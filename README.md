@@ -1,6 +1,6 @@
-## 👩‍💻 Fullstack Developer | Javascript, React, NodeJS & Typescript
+## Fullstack Developer | Javascript, React, NodeJS & Typescript  👩‍💻 
 
-
+I recently finished the Labenu bootcamp. Now, on the next step of my learning journey, I'm taking the Udacity nanodegree Intro to programming 🤓 
  
 <!--
 **mibaratto/mibaratto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
