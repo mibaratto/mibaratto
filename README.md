@@ -1,5 +1,7 @@
-### Hi there 👋
+## 👩‍💻 Fullstack Developer | Javascript, React, NodeJS, Typescript, REST APIs 
 
+
+ 
 <!--
 **mibaratto/mibaratto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
