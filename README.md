@@ -1,4 +1,4 @@
-## Fullstack Developer | Javascript, React, NodeJS & Typescript  👩‍💻 
+## Fullstack Developer | Javascript, React, & Typescript  👩‍💻 
 
 I recently finished the Labenu bootcamp. Currently, on the next step of my learning journey, I'm at ReDI school in Berlin 🤓 
  
