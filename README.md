@@ -1,4 +1,4 @@
-## Frontend Developer | HTML/CSS and Javascript | UX/UI Designer 👩‍💻 
+## Fullstack Developer | 
 
  
 <!--
